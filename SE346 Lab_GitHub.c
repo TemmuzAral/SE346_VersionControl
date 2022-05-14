@@ -12,6 +12,7 @@ int main()
 
 	printf("Cenk Bora ERSAHIN,160302023,CMPE\n");
 
+	printf("Temmuz Aral Bir,123456789,CMPE\n");
 
 
 }
